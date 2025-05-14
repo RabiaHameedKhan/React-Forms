@@ -28,6 +28,6 @@ const App = () => { //controlled component
       </form>
     </div>
   );
-}; 
+};
 
 export default App;
